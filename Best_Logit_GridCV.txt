@@ -1,0 +1,45 @@
+Param: C
+Value: 100
+---
+Param: class_weight
+Value: None
+---
+Param: dual
+Value: False
+---
+Param: fit_intercept
+Value: True
+---
+Param: intercept_scaling
+Value: 1
+---
+Param: l1_ratio
+Value: None
+---
+Param: max_iter
+Value: 100
+---
+Param: multi_class
+Value: auto
+---
+Param: n_jobs
+Value: None
+---
+Param: penalty
+Value: l2
+---
+Param: random_state
+Value: 1
+---
+Param: solver
+Value: lbfgs
+---
+Param: tol
+Value: 0.0001
+---
+Param: verbose
+Value: 0
+---
+Param: warm_start
+Value: True
+---
